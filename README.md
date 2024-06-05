@@ -1,5 +1,5 @@
 # Projeto feito com React e Json-Server
-O projeto foi desenvolvido durante o curso de web moderno da COD3R. Feito na UDEMY
+O projeto foi desenvolvido durante o curso de web moderno da COD3R. Feito na UDEMY. Visa mostrar e exemplificar como seria uma aplicação real no dia a dia, onde também foi feita a separação do front e do back end para melhor exemplificação de como funcionaria na prática uma aplicação real.
 # Para a criação do projeto, foi utilizado.
 - React - React é uma biblioteca JavaScript desenvolvida pelo Facebook, usada para criar interfaces de usuário (UIs) dinâmicas e interativas.
   - Axios - O Axios é uma biblioteca JavaScript que facilita a realização de requisições HTTP, tanto para navegadores quanto para Node.js.
